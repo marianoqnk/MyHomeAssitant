@@ -18,12 +18,14 @@ Sensores:
 |SJCGQ11LM|3|Xiaomi Aqara water leak sensor (water leak true/false)|
 |RTCGQ11LM|2|Xiaomi Aqara human body movement and illuminance sensor (occupancy and illuminance)|
 |MCCGQ11LM|1|Xiaomi Aqara door & window contact sensor (contact)|
+|WSDCGQ11LM|1|Termometro, humedad y presión|
 
 Otros:
 
 | Modelo |Cantidad |Dispositivo |
 | ------ | ------- |------------|
 |CC2531 USB|1|Router Zigbee2mqtt|
+|E1524|1|IKEA TRADFRI remote control|
 
 
 # 433
