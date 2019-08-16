@@ -19,6 +19,13 @@ Sensores:
 |RTCGQ11LM|2|Xiaomi Aqara human body movement and illuminance sensor (occupancy and illuminance)|
 |MCCGQ11LM|1|Xiaomi Aqara door & window contact sensor (contact)|
 
+Otros:
+
+| Modelo |Cantidad |Dispositivo |
+| ------ | ------- |------------|
+|CC2531 USB|1|Router Zigbee2mqtt|
+
+
 # 433
 
 | Modelo |Cantidad |Dispositivo |
@@ -33,6 +40,7 @@ Sensores:
 |QUIA|2|Control remoto llavero|
 |Kerui|1|Control remoto llavero|
 |QUIA|1|Transmisor remoto superticie|
+|Wemos|1|Puente 433 to mqtt|
 
 z05 camara rtsp y onvif
 
@@ -50,4 +58,5 @@ z05 camara rtsp y onvif
 | ------ | ------- |------------|
 |IUNCI 150.001 |5|Motor de persiana|
 |JM35-100|1|Motor de persiana|
+|Raspberry Pi 3|1|Controlador Home Assistant|
 
