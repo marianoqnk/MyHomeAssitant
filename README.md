@@ -61,4 +61,6 @@ z05 camara rtsp y onvif
 |IUNCI 150.001 |5|Motor de persiana|
 |JM35-100|1|Motor de persiana|
 |Raspberry Pi 3|1|Controlador Home Assistant|
+|MyPlant|1|Sensor de Xiaomi para plantas|
+|DiY|1|Medidor de tensión, corriente y potencia|
 
